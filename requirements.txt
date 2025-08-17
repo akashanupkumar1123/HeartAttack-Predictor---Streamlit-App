@@ -1,0 +1,13 @@
+joblib
+pandas
+numpy
+streamlit
+streamlit-option-menu
+mlflow
+shap
+streamlit-lottie
+streamlit-extras
+plotly
+pillow
+lightgbm
+scikit-learn==1.6.1
