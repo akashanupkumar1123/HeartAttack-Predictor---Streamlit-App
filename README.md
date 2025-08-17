@@ -4,7 +4,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![MLflow](https://img.shields.io/badge/MLflow-1.25+-orange.svg)](https://mlflow.org/)  
+[![SHAP](https://img.shields.io/badge/SHAP-0.41+-blue.svg)](https://github.com/slundberg/shap)
+
+
 [![GitHub stars](https://img.shields.io/github/stars/akashanupkumar1123/HeartAttack-Predictor---Streamlit-App.svg)](https://github.com/akashanupkumar1123/HeartAttack-Predictor---Streamlit-App/stargazers)
 
 ## 🔬 Project Overview
