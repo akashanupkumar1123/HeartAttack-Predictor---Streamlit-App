@@ -2,7 +2,7 @@ joblib
 pandas
 numpy
 streamlit
-streamlit-option-menu
+streamlit_option_menu
 mlflow
 shap
 streamlit-lottie
