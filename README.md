@@ -6,6 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 [![MLflow](https://img.shields.io/badge/MLflow-1.25+-orange.svg)](https://mlflow.org/)  
 [![SHAP](https://img.shields.io/badge/SHAP-0.41+-blue.svg)](https://github.com/slundberg/shap)
 
