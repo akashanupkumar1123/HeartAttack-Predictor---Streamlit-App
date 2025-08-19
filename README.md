@@ -1,8 +1,9 @@
+
+# HeartAttack Predictor - Streamlit Application
+
 ![Heart Attack Predictor Banner](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/93fa7be2-550c-49c4-8e3c-c640aa8cba0e.png)
 ##  Live Demo
 [Try the app now →](https://heartattack-predictor---app-app-1123.streamlit.app/)
-
-# HeartAttack Predictor - Streamlit Application
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
