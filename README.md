@@ -55,8 +55,54 @@ This application combines the power of machine learning algorithms with an intui
 - 4GB RAM minimum
 - Modern web browser
 
+Installation & Running
+Clone this repository
 
+bash
+git clone https://github.com/akashanupkumar1123/HeartAttack-Predictor---Streamlit-App.git
+cd HeartAttack-Predictor---Streamlit-App
+Create and activate virtual environment
 
+bash
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+Install dependencies
+
+bash
+pip install -r requirements.txt
+Run the Streamlit app
+
+bash
+streamlit run app.py
+Open your browser and visit:
+
+text
+http://localhost:8501
+📸 Screenshots
+(Add here screenshots or GIFs showing the UI, prediction workflow, and visualizations)
+
+🧩 Future Enhancements
+Integrate advanced explainability like LIME, Counterfactuals
+
+Enable batch processing with CSV upload
+
+Add user authentication & session management
+
+Dockerize for consistent deployment
+
+Expand support for more cardiovascular conditions
+
+📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+🙌 Contact & Support
+Developed with ❤️ by Akash Anup Kumar
+Contributions, issues, or feedback? Please open an issue or pull request on GitHub or connect on LinkedIn.
+
+Thank you for checking out the HeartAttack Predictor. Stay healthy and informed!
 
 
 
